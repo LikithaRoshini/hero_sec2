@@ -1,0 +1,38 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.logo{
+    display: flex;
+    justify-content: space-between;
+}
+
+header{
+    background-image: url(hero.jpg);
+    background-size: cover;
+    height:100vh;
+
+}
+
+p{
+    color:white;
+    font-size:20px;
+    line-height: 1.5rem;
+}
+
+h1{
+    color:white;
+    font-size:60px;
+    font-weight:bold;
+}
+
+button{
+    
+    background-color: orange;
+    color:white;
+    border-radius:20px;
+    border:none;
+    padding:16px 32px;
+
+}
